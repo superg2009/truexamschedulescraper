@@ -10,19 +10,22 @@ def extract_schedule():
     soup = BeautifulSoup(response.content, "html.parser")
     table_rows = soup.find_all('td')
     courselist = []
+    # strip html tags from text
     for i in table_rows:
-        courselist.append(str(i).strip('<td>').strip('</td>'))
+        courselist.append(str(i).replace('<td>', '').replace('</td>', ''))
     save_to_txt(courselist)
 
 
-def save_to_txt(tableout):
+def save_to_txt(table):
     linecount = 0
     output_file = "table.txt"
     out = open(output_file, 'w')
-    for lines in tableout:
+    # for formatting of courses in text file
+    for lines in table:
         out.write(str(lines))
         out.write('\n')
         linecount += 1
+        # determined every 5th line is the end of a course
         if linecount == 5:
             out.write("\n")
             linecount = 0
