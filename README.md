@@ -2,3 +2,9 @@
 currently rather rudimentary and doesnt ask for input from the user, just pulls and formats entire list
 # requirements
 requires Beautiful Soup 4(bs4) and requests
+#TODO:
+* take user input and return all found
+* take many items in one input
+* build custom schedule of exams??
+* google calendar??
+* CLI commands??
