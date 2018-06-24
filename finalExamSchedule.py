@@ -1,6 +1,5 @@
 import os.path
 import sqlite3
-
 import requests
 from bs4 import BeautifulSoup
 
@@ -19,7 +18,7 @@ def create_db():
 def add_exam_entry(course, instructor, time, location):
     db = sqlite3.connect("test.db")
     curs = db.cursor()
-    # admittedly not so secure yet.
+    # insert data into exams table
     curs.execute('''  INSERT INTO exams(course ,instructor, datetime ,location ) VALUES (?,?,?,?)'''
                  , (course, instructor, time, location))
     db.commit()
@@ -35,9 +34,9 @@ def extract_schedule():
     # find tables on page
     table_rows = soup.find_all('td')
     courselist = []
-    # strip html tags from text
-    courselist.append("Exams Winter 18")
+    courselist.insert(0,"Exams Winter 2018")
     for i in table_rows:
+        # strip html tags from text
         courselist.append(str(i).replace('<td>', '').replace('</td>', '').replace('\t', " "))
     save_to_txt(courselist)
 
@@ -52,7 +51,7 @@ def save_to_txt(table):
     for idx, lines in enumerate(table):
         out.write(str(lines))
         out.write('\n')
-        if idx % 5 == 0 and idx is not 1 or 0:
+        if idx % 5 == 0 and idx is not 0:
             out.write("\n")
 
 
