@@ -43,14 +43,13 @@ def extract_schedule():
 
 
 def save_to_txt(table):
-    # if anyone knows a more elegant way to do this add a issue
-    linecount = 0
     output_file = "table1.txt"
     out = open(output_file, 'w')
     # for formatting of courses in text file
     for idx, lines in enumerate(table):
         out.write(str(lines))
         out.write('\n')
+        # ignore 0 as it can be used as a term id
         if idx % 5 == 0 and idx is not 0:
             out.write("\n")
 
