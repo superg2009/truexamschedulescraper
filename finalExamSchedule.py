@@ -1,29 +1,16 @@
 import os.path
-import sqlite3
 import requests
 from bs4 import BeautifulSoup
+from sys import argv
 
-
-def create_db():
-    conn = sqlite3.connect("test.db")
-    cursor = conn.cursor()
-    cursor.execute('''
-            CREATE TABLE IF NOT EXISTS exams(id INTEGER PRIMARY KEY ,course TEXT,
-             instructor TEXT, datetime TEXT,location TEXT)
- ''')
-    conn.commit()
-    conn.close()
-
-
-def add_exam_entry(course, instructor, time, location):
-    db = sqlite3.connect("test.db")
-    curs = db.cursor()
-    # insert data into exams table
-    curs.execute('''  INSERT INTO exams(course ,instructor, datetime ,location ) VALUES (?,?,?,?)'''
-                 , (course, instructor, time, location))
-    db.commit()
-    db.close()
-
+class Exam:
+    def __init__(self,course,instructor,date,time,room):
+        self.course=course
+        self.course=course
+        self.instructor=instructor
+        self.date=date
+        self.time=time
+        self.room=room
 
 def extract_schedule():
     # go to exam schedule page
@@ -38,25 +25,26 @@ def extract_schedule():
     for i in table_rows:
         # strip html tags from text
         courselist.append(str(i).replace('<td>', '').replace('</td>', '').replace('\t', " "))
-    save_to_txt(courselist)
+    return courselist
 
+#def toJson(Examlist,filename):
 
-
-def save_to_txt(table):
-    output_file = "table1.txt"
-    out = open(output_file, 'w')
+def save_to_txt(table,filename):
+    out = open(filename, 'w')
     # for formatting of courses in text file
     for idx, lines in enumerate(table):
         out.write(str(lines))
         out.write('\n')
         # ignore 0 as it can be used as a term id
+        # idx mod 5 is used to seperate each exam with a space
         if idx % 5 == 0 and idx is not 0:
             out.write("\n")
 
 
 if __name__ == "__main__":
-    # prevent having to scrape if done one already
-    if not os.path.isfile("table.txt"):
-        extract_schedule()
-    if not os.path.isfile("test.db"):
-        create_db()
+    courselist = extract_schedule()
+    filename=argv[1]
+    if filename is not None:
+        save_to_txt(courselist,argv[1])
+    else:
+        print("Please add filename argument")
