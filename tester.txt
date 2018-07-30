@@ -1,0 +1,3115 @@
+Exams Winter 2018
+ ACCT_1000_01 
+ Noskova,Jana 
+ Tuesday, April 24 
+ 09:00 
+ G MAIN (6-11) 
+
+ ACCT_1000_02 
+ Noskova,Jana 
+ Tuesday, April 24 
+ 09:00 
+ G MAIN (6-11) 
+
+ ACCT_2210_02 
+ Desjardins,Ivan 
+ Friday, April 27 
+ 14:00 
+ G MAIN (11-16) 
+
+ ACCT_2210_R2 
+ Desjardins,Ivan 
+ Friday, April 27 
+ 14:00 
+ G MAIN (11-16) 
+
+ ACCT_2210_03 
+ Anderson,James 
+ Friday, April 20 
+ 14:00 
+ G MAIN (1-9) 
+
+ ACCT_2210_R3 
+ Anderson,James 
+ Friday, April 20 
+ 14:00 
+ G MAIN (1-9) 
+
+ ACCT_2210_04 
+ Bell,Anthony 
+ Friday, April 20 
+ 14:00 
+ G MAIN (10-19) 
+
+ ACCT_2210_06 
+ Kent,Jeffrey 
+ Friday, April 27 
+ 14:00 
+ G MAIN (1-5) 
+
+ ACCT_2210_07 
+ Anderson,James 
+ Friday, April 20 
+ 14:00 
+ G MAIN (1-9) 
+
+ ACCT_2210_08 
+ Desjardins,Ivan 
+ Friday, April 27 
+ 14:00 
+ G MAIN (11-16) 
+
+ ACCT_2210_09 
+ Bell,Anthony 
+ Friday, April 20 
+ 14:00 
+ G MAIN (10-19) 
+
+ ACCT_2210_10 
+ Anderson,James 
+ Friday, April 20 
+ 14:00 
+ G MAIN (1-9) 
+
+ ACCT_2210_11 
+ Bell,Anthony 
+ Friday, April 20 
+ 14:00 
+ G MAIN (10-19) 
+
+ ACCT_2210_12 
+ Singular,Wayne 
+ Friday, April 27 
+ 14:00 
+ G MAIN (1-5) 
+
+ ACCT_2210_13 
+ Noskova,Jana 
+ Wednesday, April 18 
+ 09:00 
+ IB 1010 
+
+ ACCT_2250_01 
+ Noskova,Jana 
+ Wednesday, April 25 
+ 14:00 
+ G MAIN (3-10) 
+
+ ACCT_2250_02 
+ Singular,Wayne 
+ Wednesday, April 25 
+ 19:00 
+ G MAIN (7-13) 
+
+ ACCT_2250_03 
+ Singular,Wayne 
+ Wednesday, April 25 
+ 19:00 
+ G MAIN (7-13) 
+
+ ACCT_2250_04 
+ Noskova,Jana 
+ Wednesday, April 25 
+ 14:00 
+ G MAIN (3-10) 
+
+ ACCT_2250_05 
+ Noskova,Jana 
+ Wednesday, April 25 
+ 14:00 
+ G MAIN (3-10) 
+
+ ACCT_2250_06 
+ Singular,Wayne 
+ Wednesday, April 25 
+ 19:00 
+ G MAIN (7-13) 
+
+ ACCT_2250_07 
+ Dubord,Marc 
+ Thursday, April 26 
+ 19:00 
+ IB 1015 
+
+ ACCT_2280_01 
+ Noskova,Jana 
+ Friday, April 20 
+ 09:00 
+ OM 1335 
+
+ ACCT_3210_01 
+ Anderson,James 
+ Tuesday, April 17 
+ 09:00 
+ IB 1015 
+
+ ACCT_3210_02 
+ Anderson,James 
+ Tuesday, April 17 
+ 09:00 
+ IB 1015 
+
+ ACCT_3220_01 
+ Desjardins,Ivan 
+ Friday, April 20 
+ 14:00 
+ OM 2402 
+
+ ACCT_3230_01 
+ Desjardins,Ivan 
+ Thursday, April 26 
+ 09:00 
+ G MAIN (13-16) 
+
+ ACCT_3230_02 
+ Desjardins,Ivan 
+ Thursday, April 26 
+ 09:00 
+ G MAIN (13-16) 
+
+ ACCT_3250_01 
+ Singular,Wayne 
+ Tuesday, April 24 
+ 09:00 
+ AE 108 
+
+ ACCT_4200_01 
+ Anderson,James 
+ Wednesday, April 18 
+ 19:00 
+ IB 1020 
+
+ ACCT_4230_01 
+ Bell,Anthony 
+ Saturday, April 21 
+ 14:00 
+ IB 1019 
+
+ ACCT_4250_01 
+ Bell,Anthony 
+ Wednesday, April 25 
+ 14:00 
+ IB 2004 
+
+ AGSC_2200_01 
+ Harris,Michelle 
+ Thursday, April 26 
+ 14:00 
+ G MAIN (1-4) 
+
+ ANTH_1210_01 
+ Walks,Michelle 
+ Saturday, April 21 
+ 14:00 
+ G MAIN (16-19) 
+
+ ANTH_3030_01 
+ Gray,Nadine 
+ Thursday, April 19 
+ 09:00 
+ AE 164 
+
+ ARCH_2160_01 
+ Hutchings,Karl 
+ Friday, April 20 
+ 14:00 
+ AE 262 
+
+ ASTR_1150_01 
+ Rosvick,Joanne 
+ Saturday, April 21 
+ 09:00 
+ G MAIN (1-5) 
+
+ BIOL_0600_01 
+ Miller,Christine 
+ Friday, April 27 
+ 14:00 
+ S 337 
+
+ BIOL_0600_02 
+ Smalling,Adrian 
+ Friday, April 27 
+ 14:00 
+ S 337 
+
+ BIOL_0600_03 
+ Miller,Christine 
+ Friday, April 27 
+ 14:00 
+ S 337 
+
+ BIOL_1050_01 
+ Sonnenfeld,Margaret 
+ Friday, April 27 
+ 09:00 
+ G MAIN (16-19) 
+
+ BIOL_1210_01 
+ Flood,Nancy 
+ Monday, April 16 
+ 19:00 
+ G MAIN (1-16) 
+
+ BIOL_1210_R1 
+ Flood,Nancy 
+ Monday, April 16 
+ 19:00 
+ G MAIN (1-16) 
+
+ BIOL_1210_02 
+ Purdy,Susan 
+ Monday, April 16 
+ 19:00 
+ G MAIN (1-16) 
+
+ BIOL_1210_03 
+ Baldwin,Lyn 
+ Monday, April 16 
+ 19:00 
+ G MAIN (1-16) 
+
+ BIOL_1692_01 
+ Ross,Karen 
+ Wednesday, April 18 
+ 09:00 
+ G MAIN (1-13) 
+
+ BIOL_1692_01N 
+ Ross,Karen 
+ Wednesday, April 18 
+ 09:00 
+ G MAIN (1-13) 
+
+ BIOL_1692_02 
+ Ross,Karen 
+ Wednesday, April 18 
+ 09:00 
+ G MAIN (1-13) 
+
+ BIOL_1692_02R 
+ Ross,Karen 
+ Wednesday, April 18 
+ 09:00 
+ G MAIN (1-13) 
+
+ BIOL_2130_01 
+ MacKay,Mairi 
+ Tuesday, April 17 
+ 09:00 
+ G MAIN (6-10) 
+
+ BIOL_2290_01 
+ Gosselin,Louis 
+ Thursday, April 26 
+ 09:00 
+ G MAIN (8-12) 
+
+ BIOL_2340_01 
+ Nelson,Donald 
+ Monday, April 16 
+ 09:00 
+ G MAIN (8-12) 
+
+ BIOL_3000_01 
+ Flood,Nancy 
+ Tuesday, April 24 
+ 19:00 
+ G MAIN (10-13) 
+
+ BIOL_3010_01 
+ Van Hamme,Jonathan 
+ Monday, April 23 
+ 09:00 
+ S 375 
+
+ BIOL_3030_01 
+ Higgins,Robert 
+ Tuesday, April 17 
+ 19:00 
+ G MAIN (9-13) 
+
+ BIOL_3230_01 
+ Omajali,Jacob 
+ Monday, April 23 
+ 19:00 
+ OM 2402 
+
+ BIOL_3290_01 
+ Heise,Brian 
+ Friday, April 27 
+ 09:00 
+ G MAIN (11-15) 
+
+ BIOL_3430_01 
+ Baldwin,Lyn 
+ Saturday, April 21 
+ 14:00 
+ S 373 
+
+ BIOL_3520_01 
+ Rakobowchuk,Mark 
+ Wednesday, April 25 
+ 14:00 
+ S 203 
+
+ BIOL_3550_01 
+ Rakobowchuk,Mark 
+ Thursday, April 19 
+ 19:00 
+ S 373 
+
+ BIOL_4210_01 
+ Van Hamme,Jonathan 
+ Monday, April 16 
+ 09:00 
+ S 373 
+
+ BIOL_4250_01 
+ Nelson,Donald 
+ Saturday, April 21 
+ 14:00 
+ S 375 
+
+ BLAW_2910_01 
+ O'Fee,John 
+ Tuesday, April 17 
+ 19:00 
+ G MAIN (1-8) 
+
+ BLAW_2910_R1 
+ O'Fee,John 
+ Tuesday, April 17 
+ 19:00 
+ G MAIN (1-8) 
+
+ BLAW_2910_02 
+ Scorgie,Ryan 
+ Tuesday, April 24 
+ 09:00 
+ IB 1015 
+
+ BLAW_2910_03 
+ Caputo,Frank 
+ Thursday, April 19 
+ 19:00 
+ IB 1015 
+
+ BLAW_2910_R3 
+ Caputo,Frank 
+ Thursday, April 19 
+ 19:00 
+ IB 1015 
+
+ BLAW_2910_04 
+ O'Fee,John 
+ Tuesday, April 17 
+ 19:00 
+ G MAIN (1-8) 
+
+ BLAW_2910_05 
+ O'Fee,John 
+ Tuesday, April 17 
+ 19:00 
+ G MAIN (1-8) 
+
+ BLAW_2910_R5 
+ O'Fee,John 
+ Tuesday, April 17 
+ 19:00 
+ G MAIN (1-8) 
+
+ BLAW_2910_06 
+ Hughes,Robin 
+ Tuesday, April 24 
+ 19:00 
+ AE 108 
+
+ BLAW_3920_01 
+ O'Fee,John 
+ Tuesday, April 24 
+ 09:00 
+ OM 2402 
+
+ BUSN_4990_01 
+ Viskovich,Julio 
+ Monday, April 23 
+ 19:00 
+ IB 1020 
+
+ BUSN_5010_01 
+ Mahbobi,Mohammad 
+ Monday, April 23 
+ 14:00 
+ AE 108 
+
+ BUSN_5020_01 
+ Bell,Anthony 
+ Friday, April 27 
+ 14:00 
+ IB 1008 
+
+ BUSN_5030_01 
+ Singular,Wayne 
+ Friday, April 20 
+ 09:00 
+ AE 212 
+
+ BUSN_5040_01 
+ Dewan,Abul 
+ Monday, April 16 
+ 09:00 
+ AE 164 
+
+ BUSN_5050_01 
+ Haverila,Matti 
+ Wednesday, April 25 
+ 14:00 
+ AE 164 
+
+ BUSN_5060_01 
+ Duff,Angus 
+ Wednesday, April 18 
+ 14:00 
+ OM 2402 
+
+ BUSN_6010_01 
+ Tener,Charmaine 
+ Tuesday, April 24 
+ 09:00 
+ OM 2742 
+
+ BUSN_6020_01 
+ Thompson,Daniel 
+ Friday, April 27 
+ 09:00 
+ IB 1010 
+
+ BUSN_6030_01 
+ Mohiuddin,Muhammad 
+ Thursday, April 19 
+ 14:00 
+ OM 2742 
+
+ BUSN_6040_01 
+ Barragan,Salvador 
+ Tuesday, April 17 
+ 14:00 
+ AE 164 
+
+ BUSN_6050_01 
+ Keivanpour,Samira 
+ Friday, April 20 
+ 14:00 
+ AE 208 
+
+ BUSN_6060_01 
+ Keivanpour,Samira 
+ Monday, April 23 
+ 09:00 
+ IB 1008 
+
+ BUSN_6070_01 
+ Southin,Nancy 
+ Wednesday, April 18 
+ 09:00 
+ IB 1008 
+
+ BUSN_6210_01 
+ Kimmel,Randall 
+ Thursday, April 26 
+ 09:00 
+ AE 208 
+
+ CHEM_0500_01 
+ Villeneuve,Eric 
+ Friday, April 20 
+ 14:00 
+ OM 2651 
+
+ CHEM_0500_02 
+ Anchikoski,Tory 
+ Saturday, April 21 
+ 14:00 
+ OM 2741 
+
+ CHEM_0500_03 
+ Anchikoski,Tory 
+ Tuesday, April 24 
+ 19:00 
+ OM 2742 
+
+ CHEM_0600_01 
+ Villeneuve,Eric 
+ Tuesday, April 17 
+ 14:00 
+ OM 2651 
+
+ CHEM_0600_02 
+ Villeneuve,Eric 
+ Thursday, April 26 
+ 19:00 
+ OM 2791 
+
+ CHEM_1510_01 
+ Lettinga,Marten 
+ Wednesday, April 25 
+ 19:00 
+ G MAIN (1-6) 
+
+ CHEM_1520_01 
+ Reed,J. Norman 
+ Tuesday, April 24 
+ 14:00 
+ G MAIN (1-11) 
+
+ CHEM_1520_02 
+ Li,Zhe 
+ Tuesday, April 24 
+ 14:00 
+ G MAIN (1-11) 
+
+ CHEM_1520_03 
+ Li,Zhe 
+ Tuesday, April 24 
+ 14:00 
+ G MAIN (1-11) 
+
+ CHEM_2220_01 
+ Cinel,Bruno 
+ Monday, April 23 
+ 14:00 
+ G MAIN (8-13) 
+
+ CHEM_2220_02 
+ Huttunen-Hennelly,Heidi 
+ Monday, April 23 
+ 14:00 
+ G MAIN (8-13) 
+
+ CHEM_2250_01 
+ Donkor,Kingsley 
+ Saturday, April 21 
+ 14:00 
+ AE 104 
+
+ CHEM_3070_01 
+ Li,Zhe 
+ Saturday, April 21 
+ 09:00 
+ IB 1019 
+
+ CHEM_3140_01 
+ Brewer,Sharon 
+ Tuesday, April 17 
+ 09:00 
+ S 375 
+
+ CHEM_3230_01 
+ Huttunen-Hennelly,Heidi 
+ Friday, April 27 
+ 09:00 
+ S 203 
+
+ CHEM_3320_01 
+ Prema,Dipeshkumar 
+ Monday, April 23 
+ 19:00 
+ S375 
+
+ CHEM_4320_01 
+ Prema,Dipeshkumar 
+ Thursday, April 19 
+ 19:00 
+ S 375 
+
+ CHEM_4600_01 
+ Reed,J. Norman 
+ Wednesday, April 25 
+ 19:00 
+ IB 1019 
+
+ CMNS_2160_01 
+ McDonald,Blair 
+ Thursday, April 19 
+ 19:00 
+ IB 1020 
+
+ CMNS_2170_01 
+ Bermiller,Jason 
+ Wednesday, April 18 
+ 09:00 
+ IB 1020 
+
+ COMP_1020_01 
+ Pouw,Frank 
+ Friday, April 20 
+ 14:00 
+ OM 1335, OM 1355 
+
+ COMP_1020_02 
+ Pouw,Frank 
+ Friday, April 20 
+ 14:00 
+ OM 1335, OM 1355 
+
+ COMP_1030_01 
+ Pouw,Frank 
+ Wednesday, April 25 
+ 19:00 
+ OM 1327 
+
+ COMP_1050_01 
+ King,Richard 
+ Wednesday, April 18 
+ 09:00 
+ OM 1330 
+
+ COMP_1070_01 
+ King,Richard 
+ Wednesday, April 25 
+ 09:00 
+ OM 1350 
+
+ COMP_1080_01 
+ King,Richard 
+ Friday, April 27 
+ 09:00 
+ OM 1355 
+
+ COMP_1090_01 
+ King,Richard 
+ Saturday, April 21 
+ 09:00 
+ OM 1327 
+
+ COMP_1130_01 
+ Giftakis,Yannie 
+ Wednesday, April 25 
+ 19:00 
+ IB 1015 
+
+ COMP_1130_R1 
+ Giftakis,Yannie 
+ Wednesday, April 25 
+ 19:00 
+ IB 1015 
+
+ COMP_1130_02 
+ Ahmed,Faheem 
+ Thursday, April 26 
+ 09:00 
+ OM 1350 
+
+ COMP_1130_R2 
+ Ahmed,Faheem 
+ Thursday, April 26 
+ 09:00 
+ OM 1350 
+
+ COMP_1130_03 
+ Lee,Mahnhoon 
+ Monday, April 16 
+ 19:00 
+ AE 108 
+
+ COMP_1150_01 
+ King,Richard 
+ Saturday, April 28 
+ 09:00 
+ OM 1327 
+
+ COMP_1230_01 
+ Rahman,Musfiq 
+ Monday, April 16 
+ 19:00 
+ OM 1327 
+
+ COMP_1230_02 
+ Babinchuk,Wayne 
+ Monday, April 16 
+ 19:00 
+ IB 1008 
+
+ COMP_1230_03 
+ Cuzzola,Johnny 
+ Wednesday, April 25 
+ 19:00 
+ OM 1350 
+
+ COMP_2130_01 
+ Sharma,Mridula 
+ Monday, April 16 
+ 09:00 
+ IB 1015 
+
+ COMP_2130_02 
+ Sharma,Mridula 
+ Monday, April 16 
+ 09:00 
+ IB 1015 
+
+ COMP_2160_01 
+ Balali Moghaddam,Aras 
+ Saturday, April 21 
+ 14:00 
+ OM 1350 
+
+ COMP_2210_01 
+ Abdullah,Mohd 
+ Wednesday, April 18 
+ 14:00 
+ OM 1327, OM 1335, OM 1355 
+
+ COMP_2230_01 
+ Babinchuk,Wayne 
+ Wednesday, April 25 
+ 19:00 
+ AE 164 
+
+ COMP_2920_01 
+ Sharma,Mridula 
+ Tuesday, April 24 
+ 19:00 
+ S 203 
+
+ COMP_3050_01 
+ Jackson,Piper 
+ Friday, April 27 
+ 14:00 
+ IB 2004 
+
+ COMP_3160_01 
+ Rahman,Musfiq 
+ Saturday, April 21 
+ 14:00 
+ OM 1360 
+
+ COMP_3260_01 
+ Rahman,Musfiq 
+ Friday, April 20 
+ 14:00 
+ AE 260 
+
+ COMP_3270_01 
+ Lu,Ning 
+ Tuesday, April 17 
+ 14:00 
+ AE 208 
+
+ COMP_3410_01 
+ O'Neil,Kevin 
+ Monday, April 23 
+ 19:00 
+ AE 162 
+
+ COMP_3450_01 
+ Jackson,Piper 
+ Monday, April 16 
+ 09:00 
+ OM 1350 
+
+ COMP_3520_01 
+ O'Neil,Kevin 
+ Tuesday, April 24 
+ 19:00 
+ AE 262 
+
+ COMP_3610_01 
+ Kwiatkowska,Bogumila 
+ Thursday, April 26 
+ 19:00 
+ S 337 
+
+ COMP_4530_01 
+ O'Neil,Kevin 
+ Tuesday, April 24 
+ 19:00 
+ AE 262 
+
+ COMP_4610_01 
+ Kwiatkowska,Bogumila 
+ Wednesday, April 25 
+ 19:00 
+ AE 208 
+
+ COMP_4980_01 
+ Ahmed,Faheem 
+ Saturday, April 28 
+ 14:00 
+ IB 1019 
+
+ ECON_1220_01 
+ Rahman,Hafizur 
+ Tuesday, April 17 
+ 14:00 
+ G MAIN (1-4) 
+
+ ECON_1220_02 
+ Anaere,Charles 
+ Friday, April 20 
+ 09:00 
+ G MAIN (11-15) 
+
+ ECON_1900_01 
+ Carson,Nancy 
+ Tuesday, April 24 
+ 09:00 
+ G MAIN (1-5) 
+
+ ECON_1900_R1 
+ Carson,Nancy 
+ Tuesday, April 24 
+ 09:00 
+ G MAIN (1-5) 
+
+ ECON_1900_02 
+ Dalley,Peter 
+ Tuesday, April 17 
+ 19:00 
+ G MAIN (14-17) 
+
+ ECON_1900_R2 
+ Dalley,Peter 
+ Tuesday, April 17 
+ 19:00 
+ G MAIN (14-17) 
+
+ ECON_1900_03 
+ Gaisford,James 
+ Wednesday, April 18 
+ 19:00 
+ G MAIN (1-7) 
+
+ ECON_1900_04 
+ Gaisford,James 
+ Wednesday, April 18 
+ 19:00 
+ G MAIN (1-7) 
+
+ ECON_1900_04A 
+ Gaisford,James 
+ Wednesday, April 18 
+ 19:00 
+ G MAIN (1-7) 
+
+ ECON_1900_05 
+ Ortiz Moya,Cesar Augusto 
+ Thursday, April 19 
+ 09:00 
+ G MAIN (12-15) 
+
+ ECON_1900_06 
+ Carson,Nancy 
+ Tuesday, April 24 
+ 09:00 
+ G MAIN (1-5) 
+
+ ECON_1950_01 
+ Miles,Stanley 
+ Saturday, April 21 
+ 14:00 
+ G MAIN (6-15) 
+
+ ECON_1950_02 
+ Wood,Joel 
+ Wednesday, April 25 
+ 09:00 
+ G MAIN (10-13) 
+
+ ECON_1950_R2 
+ Wood,Joel 
+ Wednesday, April 25 
+ 09:00 
+ G MAIN (10-13) 
+
+ ECON_1950_03 
+ Anaere,Charles 
+ Saturday, April 21 
+ 09:00 
+ G MAIN (6-12) 
+
+ ECON_1950_04 
+ Anaere,Charles 
+ Saturday, April 21 
+ 09:00 
+ G MAIN (6-12) 
+
+ ECON_1950_05 
+ Miles,Stanley 
+ Saturday, April 21 
+ 14:00 
+ G MAIN (6-15) 
+
+ ECON_1950_06 
+ Miles,Stanley 
+ Saturday, April 21 
+ 14:00 
+ G MAIN (6-15) 
+
+ ECON_1950_07 
+ Ortiz Moya,Cesar Augusto 
+ Saturday, April 21 
+ 14:00 
+ IB 1020 
+
+ ECON_2220_01 
+ Anaere,Charles 
+ Friday, April 20 
+ 09:00 
+ G MAIN (11-15) 
+
+ ECON_2320_01 
+ Ortiz Moya,Cesar Augusto 
+ Monday, April 23 
+ 19:00 
+ G MAIN (1-5) 
+
+ ECON_2320_R1 
+ Ortiz Moya,Cesar Augusto 
+ Monday, April 23 
+ 19:00 
+ G MAIN (1-5) 
+
+ ECON_2320_02 
+ Ortiz Moya,Cesar Augusto 
+ Monday, April 23 
+ 19:00 
+ G MAIN (1-5) 
+
+ ECON_2320_03 
+ Geleta,Solomon 
+ Thursday, April 26 
+ 09:00 
+ G MAIN (1-7) 
+
+ ECON_2320_R3 
+ Geleta,Solomon 
+ Thursday, April 26 
+ 09:00 
+ G MAIN (1-7) 
+
+ ECON_2320_04 
+ Geleta,Solomon 
+ Thursday, April 26 
+ 09:00 
+ G MAIN (1-7) 
+
+ ECON_2320_05 
+ Geleta,Solomon 
+ Thursday, April 26 
+ 09:00 
+ G MAIN (1-7) 
+
+ ECON_2330_01 
+ Pyne,Derek 
+ Monday, April 23 
+ 19:00 
+ G MAIN (6-10) 
+
+ ECON_2330_02 
+ Dalley,Peter 
+ Thursday, April 19 
+ 09:00 
+ G MAIN (1-5) 
+
+ ECON_2330_03 
+ Mahbobi,Mohammad 
+ Thursday, April 19 
+ 09:00 
+ G MAIN (6-11) 
+
+ ECON_2330_04 
+ Mahbobi,Mohammad 
+ Thursday, April 19 
+ 09:00 
+ G MAIN (6-11) 
+
+ ECON_2330_05 
+ Pyne,Derek 
+ Monday, April 23 
+ 19:00 
+ G MAIN (6-10) 
+
+ ECON_2330_06 
+ Dalley,Peter 
+ Thursday, April 19 
+ 09:00 
+ G MAIN (1-5) 
+
+ ECON_2950_01 
+ Geleta,Solomon 
+ Saturday, April 21 
+ 14:00 
+ AE 164 
+
+ ECON_3040_01 
+ Dalley,Peter 
+ Saturday, April 21 
+ 14:00 
+ IB 1015 
+
+ ECON_3040_03 
+ Dalley,Peter 
+ Saturday, April 21 
+ 14:00 
+ IB 1015 
+
+ ECON_3200_01 
+ Miles,Stanley 
+ Monday, April 23 
+ 14:00 
+ OM 2742 
+
+ ECON_3330_03 
+ Mahbobi,Mohammad 
+ Thursday, April 19 
+ 09:00 
+ G MAIN (6-11) 
+
+ ECON_3500_01 
+ Hossain,Belayet 
+ Friday, April 20 
+ 14:00 
+ OM 2742 
+
+ ECON_3550_01 
+ Gaisford,James 
+ Thursday, April 19 
+ 19:00 
+ AE 164 
+
+ ECON_3730_01 
+ Carson,Nancy 
+ Wednesday, April 18 
+ 19:00 
+ G MAIN (8-10) 
+
+ ECON_3740_01 
+ Androkovich,Robert 
+ Monday, April 16 
+ 19:00 
+ OM 2742 
+
+ ECON_3950_01 
+ Dewan,Abul 
+ Saturday, April 28 
+ 09:00 
+ OM 2742 
+
+ ECON_3990_01 
+ Geleta,Solomon 
+ Monday, April 23 
+ 14:00 
+ IB 1019 
+
+ ECON_4660_01 
+ Miles,Stanley 
+ Friday, April 20 
+ 09:00 
+ IB 1019 
+
+ ECON_6040_01 
+ Latif,Ehsan 
+ Saturday, April 28 
+ 09:00 
+ IB 1007 
+
+ ECON_6050_01 
+ Lamb,Laura 
+ Thursday, April 19 
+ 09:00 
+ IB 1019 
+
+ ECON_6060_01 
+ Wood,Joel 
+ Thursday, April 26 
+ 14:00 
+ IB 1019 
+
+ ENGL_1100_02 
+ Bellamy,Lorne 
+ Tuesday, April 17 
+ 14:00 
+ IB 1015 
+
+ ENGL_1100_03 
+ Bellamy,Lorne 
+ Tuesday, April 17 
+ 14:00 
+ IB 1015 
+
+ ENGL_1100_20 
+ , 
+ Monday, April 16 
+ 09:00 
+ AE 212 
+
+ ENGL_1110_01 
+ Johnson,Nina 
+ Friday, April 20 
+ 14:00 
+ IB 1014 
+
+ ENGL_1110_05 
+ Bellamy,Lorne 
+ Thursday, April 26 
+ 09:00 
+ IB 1015 
+
+ ENGL_1110_08 
+ Later,Genevieve 
+ Tuesday, April 17 
+ 14:00 
+ AE 108 
+
+ ENGL_1110_11 
+ Bellamy,Lorne 
+ Thursday, April 26 
+ 09:00 
+ IB 1015 
+
+ ENGL_1150_01 
+ Johnson,Nina 
+ Tuesday, April 17 
+ 09:00 
+ IB 1008 
+
+ ENGL_1210_02 
+ Laville,Claire 
+ Thursday, April 26 
+ 14:00 
+ OM 2742 
+
+ ENGL_2120_01 
+ Reimer,Elizabeth 
+ Saturday, April 28 
+ 14:00 
+ AE 164 
+
+ ENGL_2200_01 
+ Later,Genevieve 
+ Wednesday, April 25 
+ 14:00 
+ OM 2742 
+
+ ENGL_2250_01 
+ Swing,Anita 
+ Friday, April 27 
+ 14:00 
+ AE 208 
+
+ ENGL_3160_01 
+ Nicholson,Mervyn 
+ Tuesday, April 24 
+ 19:00 
+ AE 208 
+
+ ENGL_3180_01 
+ Reimer,Elizabeth 
+ Wednesday, April 18 
+ 09:00 
+ AE 162 
+
+ ENGL_3890_01 
+ Nicholson,Mervyn 
+ Thursday, April 26 
+ 19:00 
+ AE 164 
+
+ ENGL_4260_01 
+ Ratsoy,Virginia 
+ Wednesday, April 25 
+ 19:00 
+ AE 260 
+
+ ENGL_4260_02 
+ Matthews,S. Leigh 
+ Friday, April 20 
+ 14:00 
+ AE 212 
+
+ ENTR_3720_01 
+ Vadalkar,Heramb 
+ Monday, April 16 
+ 09:00 
+ OM 2651 
+
+ ENTR_4760_01 
+ Adam,Mark 
+ Friday, April 20 
+ 14:00 
+ AE 164 
+
+ ENVS_5480_01 
+ Rollans,Richard 
+ Thursday, April 26 
+ 19:00 
+ OM 2742 
+
+ EPHY_1250_01 
+ Tsui,Ernest 
+ Thursday, April 19 
+ 19:00 
+ G MAIN (11-13) 
+
+ EPHY_1700_01 
+ Gu,Jianzhong 
+ Friday, April 27 
+ 14:00 
+ IB 1015 
+
+ EPHY_1990_01 
+ Grand,Robert 
+ Saturday, April 28 
+ 09:00 
+ S 337 
+
+ EPHY_3600_01 
+ Fortier,Normand 
+ Saturday, April 28 
+ 09:00 
+ S 375 
+
+ ESAL_0120_01 
+ Church,L. Alexandra 
+ Thursday, April 19 
+ 09:00 
+ OM 2742 
+
+ ESAL_0170_01 
+ Bouthillier,Brian 
+ Saturday, April 21 
+ 09:00 
+ OM 2751 
+
+ ESAL_0220_01 
+ Church,L. Alexandra 
+ Wednesday, April 25 
+ 09:00 
+ OM 2742 
+
+ ESAL_0270_01 
+ Bouthillier,Brian 
+ Saturday, April 21 
+ 09:00 
+ OM 2751 
+
+ ESAL_0320_01 
+ Steiger,Jane 
+ Tuesday, April 17 
+ 14:00 
+ OM 2742 
+
+ ESAL_0340_01 
+ Steiger,Jane 
+ Wednesday, April 25 
+ 09:00 
+ OM 2741 
+
+ ESAL_0340_02 
+ Bouthillier,Brian 
+ Wednesday, April 25 
+ 19:00 
+ OM 2742 
+
+ ESAL_0350_02 
+ Brown,Jason 
+ Saturday, April 28 
+ 14:00 
+ OM 2742 
+
+ ESAL_0370_01 
+ Krauza,Wendy 
+ Friday, April 27 
+ 14:00 
+ OM 2742 
+
+ ESAL_0370_02 
+ Fawkes,Susanna 
+ Monday, April 16 
+ 14:00 
+ OM 2742 
+
+ ESAL_0380_02 
+ Brown,Jason 
+ Monday, April 23 
+ 19:00 
+ OM 2742 
+
+ ESAL_0420_01 
+ Bouthillier,Brian 
+ Tuesday, April 24 
+ 14:00 
+ OM 2741 
+
+ ESAL_0420_04 
+ Dobson,Joseph 
+ Monday, April 23 
+ 09:00 
+ OM 2621 
+
+ ESAL_0420_05 
+ Dobson,Joseph 
+ Monday, April 23 
+ 09:00 
+ OM 2621 
+
+ ESAL_0450_01 
+ Brown,Jason 
+ Thursday, April 26 
+ 09:00 
+ OM 2742 
+
+ ESAL_0470_03 
+ Stewart,Marsha 
+ Monday, April 16 
+ 19:00 
+ OM 2741 
+
+ ESAL_0470_05 
+ Massalski,Jacek 
+ Saturday, April 21 
+ 14:00 
+ OM 2791 
+
+ ESAL_0480_01 
+ Langdon,Roy 
+ Thursday, April 19 
+ 19:00 
+ OM 2402 
+
+ ESAL_0480_04 
+ Fawkes,Susanna 
+ Wednesday, April 18 
+ 19:00 
+ OM 2791 
+
+ ESAL_0480_05 
+ Langdon,Roy 
+ Thursday, April 19 
+ 19:00 
+ OM 2402 
+
+ ESAL_0570_01 
+ Turner,John 
+ Monday, April 16 
+ 09:00 
+ OM 2402 
+
+ ESAL_0570_02 
+ Gonokhova,Olga 
+ Saturday, April 21 
+ 14:00 
+ OM 2751 
+
+ ESAL_0570_03 
+ Brown,Jason 
+ Monday, April 16 
+ 09:00 
+ OM 2742 
+
+ ESAL_0570_04 
+ Bouthillier,Brian 
+ Monday, April 16 
+ 19:00 
+ OM 2791 
+
+ ESAL_0570_06 
+ Fedorak,Teressa 
+ Friday, April 27 
+ 14:00 
+ OM 2651 
+
+ ESAL_0570_07 
+ Turner,John 
+ Monday, April 16 
+ 09:00 
+ OM 2402 
+
+ ESAL_0570_08 
+ Wienhold-Leahy,Bernita 
+ Saturday, April 21 
+ 14:00 
+ OM 2761 
+
+ ESAL_0570_11 
+ Neil,Burnett 
+ Wednesday, April 25 
+ 19:00 
+ OM 2741 
+
+ ESAL_0570_14 
+ Fedorak,Teressa 
+ Friday, April 27 
+ 14:00 
+ OM 2651 
+
+ ESAL_0580_02 
+ Massalski,Jacek 
+ Tuesday, April 24 
+ 19:00 
+ OM 2741 
+
+ ESAL_0580_03 
+ Langdon,Roy 
+ Wednesday, April 25 
+ 09:00 
+ OM 2422 
+
+ ESAL_0580_04 
+ Turner,John 
+ Tuesday, April 24 
+ 19:00 
+ OM 2422 
+
+ ESAL_0580_06 
+ Turner,John 
+ Tuesday, April 24 
+ 19:00 
+ OM 2422 
+
+ ESAL_0580_08 
+ Fedorak,Teressa 
+ Wednesday, April 18 
+ 14:00 
+ OM 2422 
+
+ ESAL_0580_09 
+ Fedorak,Teressa 
+ Wednesday, April 18 
+ 14:00 
+ OM 2422 
+
+ ESAL_0580_10 
+ Langdon,Roy 
+ Wednesday, April 25 
+ 09:00 
+ OM 2422 
+
+ ESAL_0580_13 
+ Gonokhova,Olga 
+ Wednesday, April 18 
+ 09:00 
+ OM 2422 
+
+ ESAL_0580_15 
+ Gonokhova,Olga 
+ Wednesday, April 18 
+ 09:00 
+ OM 2422 
+
+ ESAL_0580_17 
+ Wienhold-Leahy,Bernita 
+ Tuesday, April 17 
+ 09:00 
+ OM 2742 
+
+ FNCE_2120_01 
+ Thompson,Daniel 
+ Wednesday, April 18 
+ 19:00 
+ OM 2402 
+
+ FNCE_2120_02 
+ Gray,Ioana 
+ Wednesday, April 18 
+ 14:00 
+ G MAIN (1-5) 
+
+ FNCE_2120_03 
+ Adam,Mark 
+ Wednesday, April 18 
+ 14:00 
+ G MAIN (6-9) 
+
+ FNCE_2120_04 
+ Adam,Mark 
+ Wednesday, April 18 
+ 14:00 
+ G MAIN (6-9) 
+
+ FNCE_2120_05 
+ Gray,Ioana 
+ Wednesday, April 18 
+ 14:00 
+ G MAIN (1-5) 
+
+ FNCE_3120_02 
+ Gray,Ioana 
+ Wednesday, April 18 
+ 14:00 
+ G MAIN (1-5) 
+
+ FNCE_3140_01 
+ Anderson,James 
+ Tuesday, April 24 
+ 14:00 
+ IB 1015 
+
+ FNCE_3150_01 
+ Vadalkar,Heramb 
+ Tuesday, April 17 
+ 14:00 
+ G MAIN (6-8) 
+
+ FNCE_3150_02 
+ Vadalkar,Heramb 
+ Tuesday, April 17 
+ 14:00 
+ G MAIN (6-8) 
+
+ FNCE_3170_01 
+ Zhang,Li 
+ Wednesday, April 25 
+ 09:00 
+ IB 1010 
+
+ FNCE_3180_01 
+ Zhang,Li 
+ Wednesday, April 18 
+ 14:00 
+ IB 1015 
+
+ FNCE_4110_01 
+ Thompson,Daniel 
+ Monday, April 23 
+ 09:00 
+ IB 1020 
+
+ FNCE_4140_01 
+ Desjardins,Ivan 
+ Thursday, April 19 
+ 14:00 
+ OM 2651 
+
+ FNCE_4160_01 
+ Zhang,Li 
+ Saturday, April 28 
+ 14:00 
+ IB 1008 
+
+ FNCE_4180_01 
+ Ng,Alex 
+ Thursday, April 26 
+ 09:00 
+ IB 1008 
+
+ FNCE_4190_01 
+ Kimmel,Randall 
+ Thursday, April 19 
+ 19:00 
+ OM 2742 
+
+ GEOG_1010_01 
+ Viaud,Gilles 
+ Thursday, April 26 
+ 09:00 
+ OM 2402 
+
+ GEOG_1010_02 
+ Naqvi,Kimberley 
+ Monday, April 23 
+ 09:00 
+ OM 2402 
+
+ GEOG_1100_01 
+ Waldichuk,Thomas 
+ Tuesday, April 17 
+ 19:00 
+ AE 108 
+
+ GEOG_2020_01 
+ Lew,Alicia 
+ Thursday, April 19 
+ 19:00 
+ AE 108 
+
+ GEOG_2220_01 
+ Naqvi,Kimberley 
+ Tuesday, April 24 
+ 09:00 
+ AE 162 
+
+ GEOG_2400_01 
+ Naqvi,Kimberley 
+ Thursday, April 26 
+ 14:00 
+ AE 212 
+
+ GEOG_3080_01 
+ Huscroft,Crystal 
+ Saturday, April 28 
+ 09:00 
+ AE 164 
+
+ GEOG_3550_01 
+ Waldichuk,Thomas 
+ Tuesday, April 24 
+ 09:00 
+ AE 164 
+
+ GEOG_3900_01 
+ Naqvi,Kimberley 
+ Wednesday, April 25 
+ 09:00 
+ AE 208 
+
+ GEOG_4500_01 
+ Viaud,Gilles 
+ Tuesday, April 17 
+ 19:00 
+ AE 164 
+
+ HIST_1220_01 
+ Block,Tina 
+ Tuesday, April 24 
+ 14:00 
+ G MAIN (12-15) 
+
+ HIST_1260_01 
+ Bell,Wilson 
+ Wednesday, April 18 
+ 14:00 
+ G MAIN (10-13) 
+
+ HIST_2200_01 
+ Bell,Wilson 
+ Monday, April 16 
+ 09:00 
+ AE 208 
+
+ HIST_2200_02 
+ St John-Stark,Anne 
+ Thursday, April 19 
+ 19:00 
+ AE 212 
+
+ HIST_2270_01 
+ Gorman,Michael 
+ Saturday, April 21 
+ 14:00 
+ AE 208 
+
+ HIST_3370_01 
+ Gorman,Michael 
+ Saturday, April 28 
+ 09:00 
+ AE 108 
+
+ HIST_3520_01 
+ St John-Stark,Anne 
+ Monday, April 23 
+ 19:00 
+ AE 164 
+
+ HIST_4030_01 
+ Block,Tina 
+ Monday, April 16 
+ 09:00 
+ AE 262 
+
+ HLSC_2650_01 
+ McLaughlin,Kirstin 
+ Monday, April 16 
+ 14:00 
+ IB 1015 
+
+ HLSC_2650_02 
+ Lyster,Tara 
+ Monday, April 16 
+ 14:00 
+ IB 1020 
+
+ HLSC_2660_01 
+ Anderson,Renee 
+ Thursday, April 19 
+ 19:00 
+ G MAIN (14-18) 
+
+ HLSC_2660_02 
+ Ross,Steven 
+ Thursday, April 19 
+ 19:00 
+ G MAIN (14-18) 
+
+ HLSC_3830_01 
+ McKenzie,Wendy 
+ Monday, April 23 
+ 14:00 
+ G MAIN (14-18) 
+
+ HLSC_3830_02 
+ McKenzie,Wendy 
+ Monday, April 23 
+ 14:00 
+ G MAIN (14-18) 
+
+ HMGT_1410_01 
+ Chomitz,Judith 
+ Saturday, April 21 
+ 14:00 
+ AE 260 
+
+ HRMN_2820_01 
+ Reed,Melanie 
+ Monday, April 23 
+ 09:00 
+ G MAIN (6-15) 
+
+ HRMN_2820_02 
+ Levis,Charlene 
+ Monday, April 23 
+ 09:00 
+ G MAIN (6-15) 
+
+ HRMN_2820_03 
+ Tener,Charmaine 
+ Monday, April 23 
+ 09:00 
+ G MAIN (6-15) 
+
+ HRMN_2820_04 
+ Rankin,Scott 
+ Monday, April 23 
+ 09:00 
+ G MAIN (6-15) 
+
+ HRMN_2820_05 
+ Sell,Deborah 
+ Thursday, April 19 
+ 09:00 
+ AE 208 
+
+ HRMN_3820_01 
+ Reed,Melanie 
+ Monday, April 23 
+ 09:00 
+ G MAIN (6-15) 
+
+ HRMN_3820_02 
+ Levis,Charlene 
+ Monday, April 23 
+ 09:00 
+ G MAIN (6-15) 
+
+ HRMN_3820_03 
+ Tener,Charmaine 
+ Monday, April 23 
+ 09:00 
+ G MAIN (6-15) 
+
+ HRMN_3830_01 
+ Reed,Melanie 
+ Wednesday, April 18 
+ 14:00 
+ AE 108 
+
+ HRMN_3840_01 
+ Wallin,Ann 
+ Monday, April 23 
+ 09:00 
+ S 203 
+
+ HRMN_4830_01 
+ Rankin,Scott 
+ Wednesday, April 25 
+ 09:00 
+ AE 108 
+
+ HRMN_4840_01 
+ Tener,Charmaine 
+ Wednesday, April 18 
+ 09:00 
+ OM 2402 
+
+ HUMS_2500_01 
+ Bruce,Vicki 
+ Thursday, April 19 
+ 19:00 
+ AE 208 
+
+ HUMS_3570_01 
+ Ouspenski,Andrei 
+ Tuesday, April 24 
+ 19:00 
+ AE 164 
+
+ IBUS_3510_01 
+ Clark,Paul 
+ Saturday, April 28 
+ 09:00 
+ G MAIN (10-15) 
+
+ IBUS_3510_02 
+ Jap,Warveni 
+ Tuesday, April 17 
+ 14:00 
+ G MAIN (13-15) 
+
+ IBUS_3510_R2 
+ Jap,Warveni 
+ Tuesday, April 17 
+ 14:00 
+ G MAIN (13-15) 
+
+ IBUS_3510_03 
+ Mohiuddin,Muhammad 
+ Saturday, April 28 
+ 14:00 
+ IB 1020 
+
+ IBUS_3510_04 
+ Clark,Paul 
+ Saturday, April 28 
+ 09:00 
+ G MAIN (10-15) 
+
+ IBUS_3510_R4 
+ Clark,Paul 
+ Saturday, April 28 
+ 09:00 
+ G MAIN (10-15) 
+
+ IBUS_3530_01 
+ Kimiagari,Salman 
+ Friday, April 20 
+ 14:00 
+ IB 1008 
+
+ IBUS_4540_01 
+ Mohiuddin,Muhammad 
+ Monday, April 23 
+ 09:00 
+ IB 1015 
+
+ IBUS_4570_01 
+ Kimiagari,Salman 
+ Monday, April 23 
+ 19:00 
+ IB 1015 
+
+ JUST_1310_01 
+ Stothers Dawson,Karen 
+ Monday, April 23 
+ 19:00 
+ OM 2791 
+
+ JUST_2350_01 
+ Stothers Dawson,Karen 
+ Monday, April 23 
+ 14:00 
+ OM 2791 
+
+ LING_2020_01 
+ Dominik,Annette 
+ Saturday, April 21 
+ 09:00 
+ AE 164 
+
+ MATH_0410_01 
+ Fitzpatrick,Marvyn 
+ Friday, April 20 
+ 14:00 
+ OM 2621 
+
+ MATH_0410_02 
+ Fitzpatrick,Marvyn 
+ Friday, April 20 
+ 14:00 
+ OM 2621 
+
+ MATH_0510_02 
+ Dhanjal,Samta 
+ Saturday, April 21 
+ 14:00 
+ OM 2742 
+
+ MATH_0600_02 
+ Barrie,Kevin 
+ Monday, April 23 
+ 09:00 
+ OM 2791 
+
+ MATH_0600_03 
+ Mazur,Izabela 
+ Thursday, April 19 
+ 14:00 
+ OM 2791 
+
+ MATH_0600_04 
+ Dhanjal,Samta 
+ Wednesday, April 18 
+ 19:00 
+ OM 2651 
+
+ MATH_0630_01 
+ Moshenko,Kimberly 
+ Thursday, April 19 
+ 14:00 
+ OM 2771 
+
+ MATH_1000_01 
+ Mahmoud,Yehia 
+ Monday, April 23 
+ 09:00 
+ S 337 
+
+ MATH_1070_01 
+ Smoczynski,Peter 
+ Monday, April 16 
+ 14:00 
+ G MAIN (8-16) 
+
+ MATH_1070_R1 
+ Smoczynski,Peter 
+ Monday, April 16 
+ 14:00 
+ G MAIN (8-16) 
+
+ MATH_1070_02 
+ Saeed,Rifat 
+ Monday, April 16 
+ 14:00 
+ G MAIN (8-16) 
+
+ MATH_1070_R2 
+ Saeed,Rifat 
+ Monday, April 16 
+ 14:00 
+ G MAIN (8-16) 
+
+ MATH_1070_03 
+ Stefan,Adriana 
+ Monday, April 16 
+ 14:00 
+ G MAIN (8-16) 
+
+ MATH_1070_R3 
+ Stefan,Adriana 
+ Monday, April 16 
+ 14:00 
+ G MAIN (8-16) 
+
+ MATH_1070_05 
+ Saeed,Rifat 
+ Monday, April 16 
+ 14:00 
+ G MAIN (8-16) 
+
+ MATH_1140_01 
+ Mahmoud,Fatma 
+ Saturday, April 28 
+ 14:00 
+ OM 2621 
+
+ MATH_1140_02 
+ Stefan,Adriana 
+ Saturday, April 28 
+ 14:00 
+ OM 2621 
+
+ MATH_1170_01 
+ Tawhid,Mohamed 
+ Thursday, April 19 
+ 19:00 
+ G MAIN (1-10) 
+
+ MATH_1170_02 
+ Smoczynski,Peter 
+ Thursday, April 19 
+ 19:00 
+ G MAIN (1-10) 
+
+ MATH_1170_03 
+ Mahmoud,Fatma 
+ Thursday, April 19 
+ 19:00 
+ G MAIN (1-10) 
+
+ MATH_1170_04 
+ Stefan,Adriana 
+ Thursday, April 19 
+ 19:00 
+ G MAIN (1-10) 
+
+ MATH_1170_R4 
+ Stefan,Adriana 
+ Thursday, April 19 
+ 19:00 
+ G MAIN (1-10) 
+
+ MATH_1230_01 
+ Sorge,Joshua 
+ Monday, April 23 
+ 14:00 
+ S 337 
+
+ MATH_1240_01 
+ Saeed,Rifat 
+ Saturday, April 28 
+ 14:00 
+ G MAIN (12-19) 
+
+ MATH_1240_02 
+ Feldberg,Suzanne 
+ Saturday, April 28 
+ 14:00 
+ G MAIN (12-19) 
+
+ MATH_1240_03 
+ Feldberg,Suzanne 
+ Saturday, April 28 
+ 14:00 
+ G MAIN (12-19) 
+
+ MATH_1250_01 
+ Robinson,Lesley 
+ Friday, April 27 
+ 14:00 
+ G MAIN (6-10) 
+
+ MATH_1250_02 
+ Robinson,Lesley 
+ Friday, April 27 
+ 14:00 
+ G MAIN (6-10) 
+
+ MATH_1640_01 
+ Rahmati,Saeed 
+ Saturday, April 28 
+ 14:00 
+ AE 208 
+
+ MATH_1650_01 
+ Brewster,Richard 
+ Thursday, April 19 
+ 14:00 
+ G MAIN (6-12) 
+
+ MATH_1650_R1 
+ Brewster,Richard 
+ Thursday, April 19 
+ 14:00 
+ G MAIN (6-12) 
+
+ MATH_1650_02 
+ Mahmoud,Yehia 
+ Thursday, April 19 
+ 14:00 
+ G MAIN (6-12) 
+
+ MATH_1700_01 
+ Rahmati,Saeed 
+ Monday, April 23 
+ 14:00 
+ G MAIN (1-7) 
+
+ MATH_1700_R1 
+ Rahmati,Saeed 
+ Monday, April 23 
+ 14:00 
+ G MAIN (1-7) 
+
+ MATH_1700_02 
+ Rahmati,Saeed 
+ Monday, April 23 
+ 14:00 
+ G MAIN (1-7) 
+
+ MATH_1900_01 
+ Feldberg,Suzanne 
+ Wednesday, April 18 
+ 19:00 
+ IB 1008 
+
+ MATH_2120_01 
+ Mahmoud,Fatma 
+ Friday, April 27 
+ 14:00 
+ AE 212 
+
+ MATH_2200_01 
+ Sorge,Joshua 
+ Tuesday, April 17 
+ 19:00 
+ OM 2742 
+
+ MATH_2240_01 
+ Tawhid,Mohamed 
+ Wednesday, April 25 
+ 14:00 
+ OM 2651 
+
+ MATH_3080_01 
+ Smoczynski,Peter 
+ Saturday, April 21 
+ 09:00 
+ OM 2612 
+
+ MATH_3170_01 
+ Crofoot,Robert 
+ Saturday, April 28 
+ 14:00 
+ OM 2612 
+
+ MATH_4430_01 
+ McGuinness,Sean 
+ Friday, April 27 
+ 09:00 
+ OM 2612 
+
+ MIST_2610_01 
+ Idzikowski,Andrzej 
+ Thursday, April 26 
+ 09:00 
+ OM 1335, OM 1355 
+
+ MIST_2610_R1 
+ Idzikowski,Andrzej 
+ Thursday, April 26 
+ 09:00 
+ OM 1335, OM 1355 
+
+ MIST_2610_02 
+ Khan,Bilal 
+ Tuesday, April 24 
+ 19:00 
+ G MAIN (1-5) 
+
+ MIST_2610_R2 
+ Khan,Bilal 
+ Tuesday, April 24 
+ 19:00 
+ G MAIN (1-5) 
+
+ MIST_2610_03 
+ Idzikowski,Andrzej 
+ Tuesday, April 24 
+ 19:00 
+ OM 1335, OM 1355 
+
+ MIST_2610_R3 
+ Idzikowski,Andrzej 
+ Tuesday, April 24 
+ 19:00 
+ OM 1335, OM 1355 
+
+ MIST_2610_04 
+ Khan,Bilal 
+ Tuesday, April 24 
+ 19:00 
+ G MAIN (1-5) 
+
+ MIST_2610_05 
+ Keivanpour,Samira 
+ Wednesday, April 18 
+ 09:00 
+ AE 108 
+
+ MIST_3620_01 
+ Idzikowski,Andrzej 
+ Monday, April 23 
+ 09:00 
+ IB 2004, IB 2006 
+
+ MIST_4610_01 
+ Idzikowski,Andrzej 
+ Friday, April 27 
+ 09:00 
+ IB 2004, IB 2006 
+
+ MKTG_2430_01 
+ Van Dyk,Sheena 
+ Tuesday, April 17 
+ 09:00 
+ G MAIN (1-5) 
+
+ MKTG_2430_02 
+ Currie,Russell 
+ Tuesday, April 17 
+ 09:00 
+ AE 108 
+
+ MKTG_2430_R2 
+ Currie,Russell 
+ Tuesday, April 17 
+ 09:00 
+ AE 108 
+
+ MKTG_2430_03 
+ McLaughlin,Caitlin 
+ Thursday, April 26 
+ 19:00 
+ AE 108 
+
+ MKTG_2430_04 
+ Lien,Che-Hui 
+ Wednesday, April 25 
+ 09:00 
+ IB 1008 
+
+ MKTG_2430_05 
+ Van Dyk,Sheena 
+ Tuesday, April 17 
+ 09:00 
+ G MAIN (1-5) 
+
+ MKTG_2430_06 
+ Viskovich,Julio 
+ Tuesday, April 17 
+ 14:00 
+ G MAIN (10-12) 
+
+ MKTG_3430_01 
+ Van Dyk,Sheena 
+ Tuesday, April 17 
+ 09:00 
+ G MAIN (1-5) 
+
+ MKTG_3430_02 
+ Currie,Russell 
+ Tuesday, April 17 
+ 09:00 
+ AE 108 
+
+ MKTG_3430_03 
+ McLaughlin,Caitlin 
+ Thursday, April 26 
+ 19:00 
+ AE 108 
+
+ MKTG_3450_01 
+ Van Dyk,Sheena 
+ Thursday, April 19 
+ 19:00 
+ S 203 
+
+ MKTG_3450_02 
+ Viskovich,Julio 
+ Friday, April 27 
+ 14:00 
+ OM 2402 
+
+ MKTG_3470_01 
+ McLaughlin,Caitlin 
+ Saturday, April 21 
+ 09:00 
+ OM 2621 
+
+ MKTG_3470_02 
+ McLaughlin,Caitlin 
+ Saturday, April 21 
+ 09:00 
+ OM 2621 
+
+ MKTG_4422_01 
+ Viskovich,Julio 
+ Friday, April 20 
+ 09:00 
+ OM 2402 
+
+ MKTG_4450_01 
+ Viskovich,Julio 
+ Wednesday, April 25 
+ 19:00 
+ OM 2402 
+
+ MKTG_4490_01 
+ Clark,Paul 
+ Saturday, April 21 
+ 14:00 
+ AE 108 
+
+ MNGT_1710_01 
+ Warren,Bernard 
+ Thursday, April 26 
+ 19:00 
+ G MAIN (1-17) 
+
+ MNGT_1710_R1 
+ Warren,Bernard 
+ Thursday, April 26 
+ 19:00 
+ G MAIN (1-17) 
+
+ MNGT_1710_02 
+ Warren,Bernard 
+ Thursday, April 26 
+ 19:00 
+ G MAIN (1-17) 
+
+ MNGT_1710_03 
+ Warren,Bernard 
+ Thursday, April 26 
+ 19:00 
+ G MAIN (1-17) 
+
+ MNGT_1710_04 
+ Warren,Bernard 
+ Thursday, April 26 
+ 19:00 
+ G MAIN (1-17) 
+
+ MNGT_1710_05 
+ Warren,Bernard 
+ Thursday, April 26 
+ 19:00 
+ G MAIN (1-17) 
+
+ MNGT_1710_06 
+ Warren,Bernard 
+ Thursday, April 26 
+ 19:00 
+ G MAIN (1-17) 
+
+ MNGT_1710_07 
+ Warren,Bernard 
+ Thursday, April 26 
+ 19:00 
+ G MAIN (1-17) 
+
+ MNGT_3710_01 
+ Gray,Ioana 
+ Monday, April 16 
+ 14:00 
+ G MAIN (1-7) 
+
+ MNGT_3710_02 
+ Gray,Ioana 
+ Monday, April 16 
+ 14:00 
+ G MAIN (1-7) 
+
+ MNGT_3710_03 
+ Gray,Ioana 
+ Monday, April 16 
+ 14:00 
+ G MAIN (1-7) 
+
+ MNGT_4710_01 
+ Mahbobi,Mohammad 
+ Tuesday, April 17 
+ 19:00 
+ OM 1330 
+
+ MNGT_4720_01 
+ Wegner,Alison 
+ Friday, April 20 
+ 14:00 
+ IB 1015 
+
+ MNGT_4780_01 
+ Kirkey,Bernie 
+ Wednesday, April 18 
+ 09:00 
+ OM 1335, OM 1355 
+
+ MNGT_4780_02 
+ Kirkey,Bernie 
+ Wednesday, April 18 
+ 09:00 
+ OM 1335, OM 1355 
+
+ MNGT_4780_03 
+ Hewins, Kevin 
+ Thursday, April 26 
+ 14:00 
+ G MAIN (8-9) 
+
+ MNGT_4780_04 
+ Clark,Paul 
+ Thursday, April 26 
+ 14:00 
+ G MAIN (6-7) 
+
+ MUSI_1800_01 
+ Vutev,Cvetozar 
+ Tuesday, April 17 
+ 19:00 
+ CT T200 
+
+ MUSI_1800_02 
+ Vutev,Cvetozar 
+ Tuesday, April 24 
+ 19:00 
+ CT T200 
+
+ NRSC_1220_01 
+ Broad,Peggy-Jo 
+ Wednesday, April 25 
+ 09:00 
+ IB 1015 
+
+ NRSC_2100_01 
+ Karakatsoulis,John 
+ Saturday, April 21 
+ 09:00 
+ G MAIN (13-18) 
+
+ NRSC_2110_01 
+ Blenner-Hassett,Trevor 
+ Monday, April 23 
+ 19:00 
+ S 337 
+
+ NRSC_3000_01 
+ Larsen,Karl 
+ Monday, April 16 
+ 19:00 
+ S 203 
+
+ NRSC_3110_01 
+ Folkard,Percy 
+ Saturday, April 21 
+ 14:00 
+ OM 2651 
+
+ NRSC_3170_01 
+ Heise,Brian 
+ Friday, April 27 
+ 09:00 
+ G MAIN (11-15) 
+
+ NRSC_4110_01 
+ Pypker,Thomas 
+ Monday, April 23 
+ 19:00 
+ AE 108 
+
+ NRSC_4210_01 
+ Karakatsoulis,John 
+ Friday, April 20 
+ 09:00 
+ IB 1015 
+
+ NURS_1700_01 
+ Cinel,Julie 
+ Tuesday, April 24 
+ 19:00 
+ G MAIN (14-19) 
+
+ NURS_1700_02 
+ Cinel,Julie 
+ Tuesday, April 24 
+ 19:00 
+ G MAIN (14-19) 
+
+ NURS_1830_01 
+ Seibel,Lana 
+ Saturday, April 28 
+ 09:00 
+ OM 2621 
+
+ NURS_1830_02 
+ Seibel,Lana 
+ Saturday, April 28 
+ 09:00 
+ OM 2621 
+
+ NURS_2830_01 
+ Nicol,Patricia 
+ Monday, April 23 
+ 19:00 
+ G MAIN (11-16) 
+
+ NURS_2830_02 
+ Walker,Candace 
+ Monday, April 23 
+ 19:00 
+ G MAIN (11-16) 
+
+ NURS_3500_01 
+ Sanders,Tanya 
+ Saturday, April 21 
+ 14:00 
+ S 203 
+
+ NURS_3600_01 
+ Waters,Nicola 
+ Thursday, April 19 
+ 19:00 
+ OM 2621 
+
+ ORGB_2810_01 
+ Tucker,Amy 
+ Saturday, April 28 
+ 14:00 
+ G MAIN (1-11) 
+
+ ORGB_2810_02 
+ Hakem Zadeh,Farimah 
+ Saturday, April 28 
+ 09:00 
+ G MAIN (1-9) 
+
+ ORGB_2810_R2 
+ Hakem Zadeh,Farimah 
+ Saturday, April 28 
+ 09:00 
+ G MAIN (1-9) 
+
+ ORGB_2810_03 
+ Tucker,Amy 
+ Saturday, April 28 
+ 14:00 
+ G MAIN (1-11) 
+
+ ORGB_2810_R3 
+ Tucker,Amy 
+ Saturday, April 28 
+ 14:00 
+ G MAIN (1-11) 
+
+ ORGB_2810_04 
+ Hakem Zadeh,Farimah 
+ Saturday, April 28 
+ 09:00 
+ G MAIN (1-9) 
+
+ ORGB_2810_R4 
+ Hakem Zadeh,Farimah 
+ Saturday, April 28 
+ 09:00 
+ G MAIN (1-9) 
+
+ ORGB_2810_05 
+ Barragan,Salvador 
+ Saturday, April 28 
+ 09:00 
+ G MAIN (1-9) 
+
+ ORGB_2810_06 
+ Tucker,Amy 
+ Saturday, April 28 
+ 14:00 
+ G MAIN (1-11) 
+
+ ORGB_2810_07 
+ Tucker,Amy 
+ Saturday, April 28 
+ 14:00 
+ G MAIN (1-11) 
+
+ ORGB_2810_08 
+ Levis,Charlene 
+ Saturday, April 28 
+ 09:00 
+ G MAIN (1-9) 
+
+ ORGB_3810_01 
+ Barragan,Salvador 
+ Thursday, April 26 
+ 09:00 
+ IB 1020 
+
+ ORGB_4870_01 
+ Hewins,Kevin 
+ Saturday, April 21 
+ 14:00 
+ AE 262 
+
+ PHED_2110_01 
+ Soberlak,Peter 
+ Saturday, April 28 
+ 14:00 
+ AE 108 
+
+ PHED_2130_01 
+ Soberlak,Peter 
+ Monday, April 16 
+ 14:00 
+ OM 2612 
+
+ PHIL_1100_01 
+ Tapley,Robin 
+ Monday, April 23 
+ 14:00 
+ OM 1327, OM 1335, OM 1355 
+
+ PHIL_2310_01 
+ Fitzjohn,Tim 
+ Tuesday, April 24 
+ 14:00 
+ IB 1020 
+
+ PHYS_0500_01 
+ Hneeda,Allan 
+ Thursday, April 26 
+ 14:00 
+ OM 2402 
+
+ PHYS_0500_02 
+ Hneeda,Allan 
+ Thursday, April 26 
+ 14:00 
+ OM 2402 
+
+ PHYS_0600_01 
+ Barrie,Kevin 
+ Friday, April 20 
+ 14:00 
+ OM 2422 
+
+ PHYS_0600_02 
+ Barrie,Kevin 
+ Friday, April 20 
+ 14:00 
+ OM 2422 
+
+ PHYS_1200_01 
+ Bissonnette,Daniel 
+ Thursday, April 19 
+ 14:00 
+ G MAIN (13-17) 
+
+ PHYS_1200_02 
+ Taylor,Colin 
+ Thursday, April 19 
+ 14:00 
+ G MAIN (13-17) 
+
+ PHYS_1250_01 
+ Tsui,Ernest 
+ Monday, April 16 
+ 09:00 
+ S 203 
+
+ PHYS_1610_01 
+ Taylor,Colin 
+ Saturday, April 28 
+ 14:00 
+ IB 1010 
+
+ PHYS_2200_01 
+ Tsui,Ernest 
+ Monday, April 23 
+ 09:00 
+ OM 2742 
+
+ PHYS_2250_01 
+ Paetkau,Mark 
+ Friday, April 20 
+ 09:00 
+ OM 2742 
+
+ PHYS_3100_01 
+ Fortier,Normand 
+ Wednesday, April 18 
+ 09:00 
+ S 260, S 278 
+
+ PHYS_3150_01 
+ Paetkau,Mark 
+ Tuesday, April 24 
+ 09:00 
+ S 375 
+
+ POLI_1110_01 
+ Kading,Terrance 
+ Monday, April 16 
+ 09:00 
+ G MAIN (13-16) 
+
+ POLI_1110_01P 
+ Kading,Terrance 
+ Monday, April 16 
+ 09:00 
+ G MAIN (13-16) 
+
+ POLI_1210_01 
+ Cook,Derek 
+ Wednesday, April 25 
+ 19:00 
+ OM 2621 
+
+ POLI_1210_02 
+ Cook,Derek 
+ Wednesday, April 25 
+ 19:00 
+ OM 2621 
+
+ POLI_2600_01 
+ Cook,Derek 
+ Saturday, April 28 
+ 14:00 
+ AE 260 
+
+ POLI_3030_01 
+ Kading,Terrance 
+ Monday, April 23 
+ 09:00 
+ AE 108 
+
+ POLI_3070_01 
+ Gray,Nadine 
+ Thursday, April 19 
+ 09:00 
+ AE 164 
+
+ POLI_3640_01 
+ Cook,Derek 
+ Tuesday, April 17 
+ 09:00 
+ AE 212 
+
+ PSYC_1110_02 
+ Befurt,Nicole 
+ Thursday, April 26 
+ 19:00 
+ OM 2402 
+
+ PSYC_1110_03 
+ Karl,Jenni 
+ Wednesday, April 18 
+ 19:00 
+ IB 1015 
+
+ PSYC_1210_06 
+ Gonzalez,Claudia 
+ Wednesday, April 18 
+ 19:00 
+ OM 2742 
+
+ PSYC_1210_08 
+ Befurt,Nicole 
+ Thursday, April 19 
+ 14:00 
+ G MAIN (1-5) 
+
+ PSYC_1210_09 
+ Befurt,Nicole 
+ Thursday, April 19 
+ 14:00 
+ G MAIN (1-5) 
+
+ PSYC_2110_01 
+ Weisgerber,Denise 
+ Tuesday, April 17 
+ 14:00 
+ IB 1020 
+
+ PSYC_2230_01E 
+ Kampman,Jacqueline 
+ Friday, April 27 
+ 09:00 
+ IB 1020 
+
+ PSYC_2230_02 
+ Kampman,Jacqueline 
+ Friday, April 27 
+ 09:00 
+ IB 1020 
+
+ PSYC_2300_01 
+ Weisgerber,Denise 
+ Friday, April 20 
+ 14:00 
+ AE 108 
+
+ PSYC_3000_90 
+ Ortner,Catherine 
+ Friday, April 20 
+ 09:00 
+ G MAIN (16-19) 
+
+ PSYC_3150_01 
+ Kampman,Jacqueline 
+ Monday, April 16 
+ 19:00 
+ IB 1015 
+
+ PSYC_3200_01 
+ Welch,Patrick 
+ Thursday, April 19 
+ 09:00 
+ AE 108 
+
+ PSYC_3230_01 
+ Woloszyn,Michael 
+ Saturday, April 28 
+ 09:00 
+ G MAIN (16-19) 
+
+ PSYC_3550_01 
+ Woloszyn,Michael 
+ Saturday, April 21 
+ 09:00 
+ IB 1015 
+
+ PSYC_3580_01 
+ Karl,Jenni 
+ Wednesday, April 25 
+ 19:00 
+ AE 108 
+
+ RESP_1650_01 
+ Dorval,Thomas 
+ Friday, April 20 
+ 09:00 
+ G MAIN (1-5) 
+
+ RESP_1680_01 
+ Moss,Randall 
+ Monday, April 23 
+ 09:00 
+ OM 1327, OM 1335, OM 1355 
+
+ RESP_2510_01 
+ Mueller,Linda 
+ Friday, April 27 
+ 09:00 
+ G MAIN (1-5) 
+
+ RESP_2600_01 
+ Ladd,Aaron 
+ Wednesday, April 18 
+ 09:00 
+ G MAIN (14-18) 
+
+ RESP_2620_01 
+ Sheets,David 
+ Saturday, April 21 
+ 14:00 
+ G MAIN (1-5) 
+
+ RESP_2630_01 
+ Matthews,Leslie 
+ Friday, April 20 
+ 09:00 
+ G MAIN (6-10) 
+
+ RESP_2650_01 
+ Lemphers,Michael 
+ Friday, April 27 
+ 09:00 
+ G MAIN (6-10) 
+
+ RESP_2660_01 
+ Ladd,Aaron 
+ Wednesday, April 25 
+ 09:00 
+ G MAIN (1-5) 
+
+ RESP_2710_01 
+ Noyes,Heather 
+ Monday, April 23 
+ 09:00 
+ G MAIN (1-5) 
+
+ SCMN_3320_01 
+ Naslund,Kirti 
+ Tuesday, April 24 
+ 19:00 
+ G MAIN (6-9) 
+
+ SCMN_3320_02 
+ Kirkey,Bernie 
+ Friday, April 27 
+ 09:00 
+ OM 1327, OM 1335 
+
+ SCMN_3320_03 
+ Kirkey,Bernie 
+ Friday, April 27 
+ 14:00 
+ OM 1327, OM 1335 
+
+ SCMN_3320_04 
+ Naslund,Kirti 
+ Tuesday, April 24 
+ 19:00 
+ G MAIN (6-9) 
+
+ SCMN_3330_01 
+ Southin,Nancy 
+ Monday, April 16 
+ 19:00 
+ AE 208 
+
+ SOCI_1110_02 
+ Dorogi,Daniel 
+ Thursday, April 26 
+ 19:00 
+ OM 1327, OM 1335 
+
+ SOCI_1110_02A 
+ Dorogi,Daniel 
+ Thursday, April 26 
+ 19:00 
+ OM 1327, OM 1335 
+
+ SOCI_1110_03 
+ Faulkner,Mary 
+ Saturday, April 21 
+ 14:00 
+ IB 2004, IB 2006 
+
+ SOCI_1210_01 
+ Dorogi,Daniel 
+ Thursday, April 19 
+ 19:00 
+ OM 1327 
+
+ SOCI_1210_03 
+ Farough,Dawn 
+ Wednesday, April 25 
+ 09:00 
+ G MAIN (14-17) 
+
+ SOCI_2010_01 
+ Smithwick,Neal 
+ Wednesday, April 18 
+ 19:00 
+ OM 2621 
+
+ SOCI_2010_01P 
+ Smithwick,Neal 
+ Wednesday, April 18 
+ 19:00 
+ OM 2621 
+
+ SOCI_2100_01 
+ Dorogi,Daniel 
+ Tuesday, April 24 
+ 19:00 
+ IB 2004, IB 2006 
+
+ SOCI_2500_01 
+ Faulkner,Mary 
+ Thursday, April 26 
+ 09:00 
+ IB 2004, IB 2006 
+
+ SOCI_3220_01 
+ Sanchez-Flores,Monica 
+ Monday, April 23 
+ 19:00 
+ OM 1355 
+
+ SOCI_3620_01 
+ Smithwick,Neal 
+ Thursday, April 26 
+ 14:00 
+ AE 108 
+
+ SOCI_3820_01 
+ Faulkner,Mary 
+ Saturday, April 28 
+ 14:00 
+ OM 1330 
+
+ SOCI_4700_01 
+ Faulkner,Mary 
+ Monday, April 16 
+ 09:00 
+ OM 1327 
+
+ STAT_1200_01 
+ Robinson,Lesley 
+ Monday, April 16 
+ 09:00 
+ G MAIN (1-7) 
+
+ STAT_1200_03 
+ Shi,Xiaoping 
+ Monday, April 16 
+ 09:00 
+ G MAIN (1-7) 
+
+ STAT_1200_04 
+ Rollans,Richard 
+ Monday, April 16 
+ 09:00 
+ G MAIN (1-7) 
+
+ STAT_2000_01 
+ Shaikh,Mateen 
+ Thursday, April 19 
+ 09:00 
+ AE 162 
+
+ STAT_3060_01 
+ Shi,Xiaoping 
+ Tuesday, April 17 
+ 19:00 
+ OM 2651 
+
+ STAT_4310_01 
+ Rollans,Richard 
+ Thursday, April 26 
+ 19:00 
+ OM 2742 
+
+ THTR_1200_01 
+ Eccleston,Wesley 
+ Thursday, April 26 
+ 19:00 
+ OM 2612 
+
+ THTR_2210_01 
+ Nichol,Robin 
+ Saturday, April 28 
+ 09:00 
+ OM 2612 
+
+ TMGT_1110_01 
+ Hood,Robert 
+ Monday, April 23 
+ 09:00 
+ G MAIN (16-19) 
+
+ TMGT_1140_01 
+ Heer,Jarita 
+ Saturday, April 28 
+ 09:00 
+ OM 2402 
+
+ TMGT_1150_01 
+ Carter,David 
+ Wednesday, April 25 
+ 14:00 
+ G MAIN (12-16) 
+
+ TMGT_1150_02 
+ Carter,David 
+ Wednesday, April 25 
+ 14:00 
+ G MAIN (12-16) 
+
+ TMGT_2010_01 
+ Dumouchel,Evangelia 
+ Wednesday, April 18 
+ 19:00 
+ OM 2771 
+
+ TMGT_2060_01 
+ Reid,Robin 
+ Saturday, April 21 
+ 09:00 
+ OM 2402 
+
+ TMGT_2610_01 
+ Reid,Robin 
+ Friday, April 27 
+ 09:00 
+ OM 2402 
+
+ TMGT_3010_01 
+ Reid,Robin 
+ Wednesday, April 18 
+ 14:00 
+ OM 2612 
+
+ TMGT_3030_01 
+ Dumouchel,Evangelia 
+ Tuesday, April 17 
+ 09:00 
+ OM 2612 
+
+ VISA_1120_01 
+ Bennett,Lloyd 
+ Monday, April 16 
+ 19:00 
+ OM 2402 
+

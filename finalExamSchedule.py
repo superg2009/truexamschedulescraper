@@ -45,6 +45,6 @@ if __name__ == "__main__":
     courselist = extract_schedule()
     filename=argv[1]
     if filename is not None:
-        save_to_txt(courselist,argv[1])
+        save_to_txt(courselist,filename)
     else:
         print("Please add filename argument")
