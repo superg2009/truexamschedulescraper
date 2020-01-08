@@ -1,5 +1,6 @@
 import os.path
 import requests
+import json
 from bs4 import BeautifulSoup
 from sys import argv
 
@@ -16,40 +17,32 @@ class Exam:
 
 def extract_schedule():
     # go to exam schedule page
-    url = 'https://www.tru.ca/campus/current/exam-schedule/exam.html'
+    url = 'https://www.tru.ca/current/enrolment-services/exam-schedule/exam.html'
     response = requests.get(url)
     # create soup object of web page
     soup = BeautifulSoup(response.content, "html.parser")
     # find tables on page
-    table_rows = soup.find_all('td')
-    courselist = []
-    for i in table_rows:
-        # strip html tags from text
-        courselist.append(str(i).replace('<td>', '').
-        replace('</td>', '').replace('\t', " "))
-    return courselist
+    table = soup.find("table", attrs={'class':"small-12"})
+    headings = [th.get_text() for th in table.find('thead').find_all("th")]
+
+    data = []
+    for row in table.find("tbody").find_all("tr"):
+        dataset = dict(zip(headings,(td.get_text() for td in row.find_all("td"))))
+        data.append(dataset)
+    return data
 
 
-
-def save_to_txt(table, filename):
+def save_to_file(table, filename):
     out = open(filename, 'w')
     # for formatting of courses in text file
-    for idx, lines in enumerate(table):
-        out.write(str(lines))
-        out.write('\n')
-        # ignore 0 as it can be used as a term id
-        # idx mod 5 is used to seperate each exam with a space
-        if idx % 5 == 0 and idx is not 0:
-            out.write("\n")
+    j = json.dumps(table)
+    print(j,file=out)
 
-
-
-    
 
 if __name__ == "__main__":
     courselist = extract_schedule()
     filename = argv[1]
     if filename is not None:
-        save_to_txt(courselist, filename)
+        save_to_file(courselist, filename)
     else:
         print("Please add filename argument")
