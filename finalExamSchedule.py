@@ -4,17 +4,6 @@ import json
 from bs4 import BeautifulSoup
 from sys import argv
 
-
-class Exam:
-    def __init__(self, course, instructor, date, time, room):
-        self.course = course
-        self.course = course
-        self.instructor = instructor
-        self.date = date
-        self.time = time
-        self.room = room
-
-
 def extract_schedule():
     # go to exam schedule page
     url = 'https://www.tru.ca/current/enrolment-services/exam-schedule/exam.html'
