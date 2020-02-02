@@ -1,1 +1,261 @@
-[{"Course": "\tACCT_1000_01\t", "Instructor": "\tNoskova,Jana\t", "Date": "\tMonday, December 09\t", "Time": "\t09:00\t", "Room": "\tIB 1015\t"}, {"Course": "\tACCT_2210_01\t", "Instructor": "\tBauman,Kai\t", "Date": "\tWednesday, December 11\t", "Time": "\t19:00\t", "Room": "\tG MAIN (1-18)\t"}, {"Course": "\tACCT_2210_02\t", "Instructor": "\tBauman,Kai\t", "Date": "\tWednesday, December 11\t", "Time": "\t19:00\t", "Room": "\tG MAIN (1-18)\t"}, {"Course": "\tACCT_2210_03\t", "Instructor": "\tNoskova,Jana\t", "Date": "\tWednesday, December 11\t", "Time": "\t19:00\t", "Room": "\tG MAIN (1-18)\t"}, {"Course": "\tACCT_2210_04\t", "Instructor": "\tNoskova,Jana\t", "Date": "\tWednesday, December 11\t", "Time": "\t19:00\t", "Room": "\tG MAIN (1-18)\t"}, {"Course": "\tACCT_2210_05\t", "Instructor": "\tPan,Dan\t", "Date": "\tWednesday, December 11\t", "Time": "\t19:00\t", "Room": "\tG MAIN (1-18)\t"}, {"Course": "\tACCT_2210_06\t", "Instructor": "\tChaudhry,Jayant\t", "Date": "\tSaturday, December 14\t", "Time": "\t14:00\t", "Room": "\tG MAIN (1-15)\t"}, {"Course": "\tACCT_2210_07\t", "Instructor": "\tKent,Jeffrey\t", "Date": "\tSaturday, December 14\t", "Time": "\t14:00\t", "Room": "\tG MAIN (1-15)\t"}, {"Course": "\tACCT_2210_08\t", "Instructor": "\tKent,Jeffrey\t", "Date": "\tSaturday, December 14\t", "Time": "\t14:00\t", "Room": "\tG MAIN (1-15)\t"}, {"Course": "\tACCT_2210_09\t", "Instructor": "\tBauman,Kai\t", "Date": "\tWednesday, December 11\t", "Time": "\t19:00\t", "Room": "\tG MAIN (1-18)\t"}, {"Course": "\tACCT_2210_10\t", "Instructor": "\tKent,Jeffrey\t", "Date": "\tSaturday, December 14\t", "Time": "\t14:00\t", "Room": "\tG MAIN (1-15)\t"}, {"Course": "\tACCT_2210_11\t", "Instructor": "\tNoskova,Jana\t", "Date": "\tWednesday, December 11\t", "Time": "\t19:00\t", "Room": "\tG MAIN (1-18)\t"}, {"Course": "\tACCT_2210_12\t", "Instructor": "\tSingular,Wayne\t", "Date": "\tSaturday, December 14\t", "Time": "\t14:00\t", "Room": "\tG MAIN (1-15)\t"}, {"Course": "\tACCT_2210_13\t", "Instructor": "\tChaudhry,Jayant\t", "Date": "\tSaturday, December 14\t", "Time": "\t14:00\t", "Room": "\tG MAIN (1-15)\t"}, {"Course": "\tACCT_2250_01\t", "Instructor": "\tBell,Anthony\t", "Date": "\tThursday, December 12\t", "Time": "\t09:00\t", "Room": "\tIB 1015\t"}, {"Course": "\tACCT_2250_02\t", "Instructor": "\tDesjardins,Ivan\t", "Date": "\tThursday, December 12\t", "Time": "\t09:00\t", "Room": "\tG MAIN (16-18)\t"}, {"Course": "\tACCT_2250_03\t", "Instructor": "\tSingular,Wayne\t", "Date": "\tThursday, December 12\t", "Time": "\t09:00\t", "Room": "\tG MAIN (6-10)\t"}, {"Course": "\tACCT_2250_04\t", "Instructor": "\tSingular,Wayne\t", "Date": "\tThursday, December 12\t", "Time": "\t09:00\t", "Room": "\tG MAIN (6-10)\t"}, {"Course": "\tACCT_2250_05\t", "Instructor": "\tBhattacharya,Rabindranath\t", "Date": "\tThursday, December 12\t", "Time": "\t09:00\t", "Room": "\tG MAIN (1-5)\t"}, {"Course": "\tACCT_2250_06\t", "Instructor": "\tDubord,Marc\t", "Date": "\tThursday, December 12\t", "Time": "\t09:00\t", "Room": "\tG MAIN (11-15)\t"}, {"Course": "\tACCT_2250_07\t", "Instructor": "\tBhattacharya,Rabindranath\t", "Date": "\tThursday, December 12\t", "Time": "\t09:00\t", "Room": "\tG MAIN (1-5)\t"}, {"Course": "\tACCT_2250_08\t", "Instructor": "\tDubord,Marc\t", "Date": "\tThursday, December 12\t", "Time": "\t09:00\t", "Room": "\tG MAIN (11-15)\t"}, {"Course": "\tACCT_3200_01\t", "Instructor": "\tAnderson,James\t", "Date": "\tWednesday, December 11\t", "Time": "\t14:00\t", "Room": "\tG MAIN (6-10)\t"}, {"Course": "\tACCT_3200_02\t", "Instructor": "\tAnderson,James\t", "Date": "\tWednesday, December 11\t", "Time": "\t14:00\t", "Room": "\tG MAIN (6-10)\t"}, {"Course": "\tACCT_3220_01\t", "Instructor": "\tBauman,Kai\t", "Date": "\tTuesday, December 03\t", "Time": "\t14:00\t", "Room": "\tG MAIN (9-13)\t"}, {"Course": "\tACCT_3220_02\t", "Instructor": "\tDesjardins,Ivan\t", "Date": "\tTuesday, December 03\t", "Time": "\t14:00\t", "Room": "\tG MAIN (9-13)\t"}, {"Course": "\tACCT_3230_01\t", "Instructor": "\tDesjardins,Ivan\t", "Date": "\tFriday, December 13\t", "Time": "\t09:00\t", "Room": "\tG MAIN (17-19)\t"}, {"Course": "\tACCT_3250_01\t", "Instructor": "\tAnderson,James\t", "Date": "\tTuesday, December 10\t", "Time": "\t14:00\t", "Room": "\tG MEZZ (1-10)\t"}, {"Course": "\tACCT_3260_01\t", "Instructor": "\tDesjardins,Ivan\t", "Date": "\tSaturday, December 14\t", "Time": "\t14:00\t", "Room": "\tG MEZZ (1-10)\t"}, {"Course": "\tACCT_4200_01\t", "Instructor": "\tAnderson,James\t", "Date": "\tThursday, December 05\t", "Time": "\t14:00\t", "Room": "\tG MEZZ (1-11)\t"}, {"Course": "\tACCT_4230_01\t", "Instructor": "\tBauman,Kai\t", "Date": "\tMonday, December 02\t", "Time": "\t14:00\t", "Room": "\tG MEZZ (1-11)\t"}, {"Course": "\tACCT_4250_01\t", "Instructor": "\tBell,Anthony\t", "Date": "\tSaturday, December 07\t", "Time": "\t09:00\t", "Room": "\tIB 2006\t"}, {"Course": "\tACCT_4270_01\t", "Instructor": "\tSingular,Wayne\t", "Date": "\tWednesday, December 04\t", "Time": "\t09:00\t", "Room": "\tIB 2006\t"}, {"Course": "\tADVG_3200_01\t", "Instructor": "\tHeshka,Jonathan\t", "Date": "\tMonday, December 09\t", "Time": "\t09:00\t", "Room": "\tOM 1752\t"}, {"Course": "\tANTH_2140_01\t", "Instructor": "\tCooke,Lisa\t", "Date": "\tMonday, December 09\t", "Time": "\t14:00\t", "Room": "\tOM 2621\t"}, {"Course": "\tAPSC_1200_01\t", "Instructor": "\tEjaz,Waleed\t", "Date": "\tSaturday, December 07\t", "Time": "\t14:00\t", "Room": "\tS 203\t"}, {"Course": "\tASTR_1140_01\t", "Instructor": "\tRosvick,Joanne\t", "Date": "\tThursday, December 12\t", "Time": "\t09:00\t", "Room": "\tG MEZZ (1-15)\t"}]
+[
+    {
+        "Instructor": "Noskova,Jana",
+        "Date": "Monday, December 09",
+        "Course": "ACCT_1000_01",
+        "Room": "IB 1015",
+        "Time": "09:00"
+    },
+    {
+        "Instructor": "Bauman,Kai",
+        "Date": "Wednesday, December 11",
+        "Course": "ACCT_2210_01",
+        "Room": "G MAIN (1-18)",
+        "Time": "19:00"
+    },
+    {
+        "Instructor": "Bauman,Kai",
+        "Date": "Wednesday, December 11",
+        "Course": "ACCT_2210_02",
+        "Room": "G MAIN (1-18)",
+        "Time": "19:00"
+    },
+    {
+        "Instructor": "Noskova,Jana",
+        "Date": "Wednesday, December 11",
+        "Course": "ACCT_2210_03",
+        "Room": "G MAIN (1-18)",
+        "Time": "19:00"
+    },
+    {
+        "Instructor": "Noskova,Jana",
+        "Date": "Wednesday, December 11",
+        "Course": "ACCT_2210_04",
+        "Room": "G MAIN (1-18)",
+        "Time": "19:00"
+    },
+    {
+        "Instructor": "Pan,Dan",
+        "Date": "Wednesday, December 11",
+        "Course": "ACCT_2210_05",
+        "Room": "G MAIN (1-18)",
+        "Time": "19:00"
+    },
+    {
+        "Instructor": "Chaudhry,Jayant",
+        "Date": "Saturday, December 14",
+        "Course": "ACCT_2210_06",
+        "Room": "G MAIN (1-15)",
+        "Time": "14:00"
+    },
+    {
+        "Instructor": "Kent,Jeffrey",
+        "Date": "Saturday, December 14",
+        "Course": "ACCT_2210_07",
+        "Room": "G MAIN (1-15)",
+        "Time": "14:00"
+    },
+    {
+        "Instructor": "Kent,Jeffrey",
+        "Date": "Saturday, December 14",
+        "Course": "ACCT_2210_08",
+        "Room": "G MAIN (1-15)",
+        "Time": "14:00"
+    },
+    {
+        "Instructor": "Bauman,Kai",
+        "Date": "Wednesday, December 11",
+        "Course": "ACCT_2210_09",
+        "Room": "G MAIN (1-18)",
+        "Time": "19:00"
+    },
+    {
+        "Instructor": "Kent,Jeffrey",
+        "Date": "Saturday, December 14",
+        "Course": "ACCT_2210_10",
+        "Room": "G MAIN (1-15)",
+        "Time": "14:00"
+    },
+    {
+        "Instructor": "Noskova,Jana",
+        "Date": "Wednesday, December 11",
+        "Course": "ACCT_2210_11",
+        "Room": "G MAIN (1-18)",
+        "Time": "19:00"
+    },
+    {
+        "Instructor": "Singular,Wayne",
+        "Date": "Saturday, December 14",
+        "Course": "ACCT_2210_12",
+        "Room": "G MAIN (1-15)",
+        "Time": "14:00"
+    },
+    {
+        "Instructor": "Chaudhry,Jayant",
+        "Date": "Saturday, December 14",
+        "Course": "ACCT_2210_13",
+        "Room": "G MAIN (1-15)",
+        "Time": "14:00"
+    },
+    {
+        "Instructor": "Bell,Anthony",
+        "Date": "Thursday, December 12",
+        "Course": "ACCT_2250_01",
+        "Room": "IB 1015",
+        "Time": "09:00"
+    },
+    {
+        "Instructor": "Desjardins,Ivan",
+        "Date": "Thursday, December 12",
+        "Course": "ACCT_2250_02",
+        "Room": "G MAIN (16-18)",
+        "Time": "09:00"
+    },
+    {
+        "Instructor": "Singular,Wayne",
+        "Date": "Thursday, December 12",
+        "Course": "ACCT_2250_03",
+        "Room": "G MAIN (6-10)",
+        "Time": "09:00"
+    },
+    {
+        "Instructor": "Singular,Wayne",
+        "Date": "Thursday, December 12",
+        "Course": "ACCT_2250_04",
+        "Room": "G MAIN (6-10)",
+        "Time": "09:00"
+    },
+    {
+        "Instructor": "Bhattacharya,Rabindranath",
+        "Date": "Thursday, December 12",
+        "Course": "ACCT_2250_05",
+        "Room": "G MAIN (1-5)",
+        "Time": "09:00"
+    },
+    {
+        "Instructor": "Dubord,Marc",
+        "Date": "Thursday, December 12",
+        "Course": "ACCT_2250_06",
+        "Room": "G MAIN (11-15)",
+        "Time": "09:00"
+    },
+    {
+        "Instructor": "Bhattacharya,Rabindranath",
+        "Date": "Thursday, December 12",
+        "Course": "ACCT_2250_07",
+        "Room": "G MAIN (1-5)",
+        "Time": "09:00"
+    },
+    {
+        "Instructor": "Dubord,Marc",
+        "Date": "Thursday, December 12",
+        "Course": "ACCT_2250_08",
+        "Room": "G MAIN (11-15)",
+        "Time": "09:00"
+    },
+    {
+        "Instructor": "Anderson,James",
+        "Date": "Wednesday, December 11",
+        "Course": "ACCT_3200_01",
+        "Room": "G MAIN (6-10)",
+        "Time": "14:00"
+    },
+    {
+        "Instructor": "Anderson,James",
+        "Date": "Wednesday, December 11",
+        "Course": "ACCT_3200_02",
+        "Room": "G MAIN (6-10)",
+        "Time": "14:00"
+    },
+    {
+        "Instructor": "Bauman,Kai",
+        "Date": "Tuesday, December 03",
+        "Course": "ACCT_3220_01",
+        "Room": "G MAIN (9-13)",
+        "Time": "14:00"
+    },
+    {
+        "Instructor": "Desjardins,Ivan",
+        "Date": "Tuesday, December 03",
+        "Course": "ACCT_3220_02",
+        "Room": "G MAIN (9-13)",
+        "Time": "14:00"
+    },
+    {
+        "Instructor": "Desjardins,Ivan",
+        "Date": "Friday, December 13",
+        "Course": "ACCT_3230_01",
+        "Room": "G MAIN (17-19)",
+        "Time": "09:00"
+    },
+    {
+        "Instructor": "Anderson,James",
+        "Date": "Tuesday, December 10",
+        "Course": "ACCT_3250_01",
+        "Room": "G MEZZ (1-10)",
+        "Time": "14:00"
+    },
+    {
+        "Instructor": "Desjardins,Ivan",
+        "Date": "Saturday, December 14",
+        "Course": "ACCT_3260_01",
+        "Room": "G MEZZ (1-10)",
+        "Time": "14:00"
+    },
+    {
+        "Instructor": "Anderson,James",
+        "Date": "Thursday, December 05",
+        "Course": "ACCT_4200_01",
+        "Room": "G MEZZ (1-11)",
+        "Time": "14:00"
+    },
+    {
+        "Instructor": "Bauman,Kai",
+        "Date": "Monday, December 02",
+        "Course": "ACCT_4230_01",
+        "Room": "G MEZZ (1-11)",
+        "Time": "14:00"
+    },
+    {
+        "Instructor": "Bell,Anthony",
+        "Date": "Saturday, December 07",
+        "Course": "ACCT_4250_01",
+        "Room": "IB 2006",
+        "Time": "09:00"
+    },
+    {
+        "Instructor": "Singular,Wayne",
+        "Date": "Wednesday, December 04",
+        "Course": "ACCT_4270_01",
+        "Room": "IB 2006",
+        "Time": "09:00"
+    },
+    {
+        "Instructor": "Heshka,Jonathan",
+        "Date": "Monday, December 09",
+        "Course": "ADVG_3200_01",
+        "Room": "OM 1752",
+        "Time": "09:00"
+    },
+    {
+        "Instructor": "Cooke,Lisa",
+        "Date": "Monday, December 09",
+        "Course": "ANTH_2140_01",
+        "Room": "OM 2621",
+        "Time": "14:00"
+    },
+    {
+        "Instructor": "Ejaz,Waleed",
+        "Date": "Saturday, December 07",
+        "Course": "APSC_1200_01",
+        "Room": "S 203",
+        "Time": "14:00"
+    },
+    {
+        "Instructor": "Rosvick,Joanne",
+        "Date": "Thursday, December 12",
+        "Course": "ASTR_1140_01",
+        "Room": "G MEZZ (1-15)",
+        "Time": "09:00"
+    }
+]

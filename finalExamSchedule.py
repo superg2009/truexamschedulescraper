@@ -27,7 +27,7 @@ def extract_schedule():
 
     data = []
     for row in table.find("tbody").find_all("tr"):
-        dataset = dict(zip(headings,(td.get_text() for td in row.find_all("td"))))
+        dataset = dict(zip(headings,(td.get_text().strip('\t') for td in row.find_all("td"))))
         data.append(dataset)
     return data
 
@@ -35,7 +35,7 @@ def extract_schedule():
 def save_to_file(table, filename):
     out = open(filename, 'w')
     # for formatting of courses in text file
-    j = json.dumps(table)
+    j = json.dumps(table,indent=4)
     print(j,file=out)
 
 
